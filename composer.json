@@ -1,0 +1,15 @@
+{
+    "name": "ccrs/test5",
+    "authors": [
+        {
+            "name": "Cristian Rojas",
+            "email": "ccrs11@hotmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    },
+    "autoload": {
+        "classmap": ["./src"]
+    }
+}
